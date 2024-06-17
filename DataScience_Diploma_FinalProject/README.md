@@ -1,4 +1,5 @@
-# Data science- BEDU/TECNOLOCHICAS
+# Air Quality of Monterrey (Mexico)
 
-This is my final project for the Data Science Diploma. It is an analysis of the Air Quality of Monterrey (Mexico) using Python and libraries such as Pandas, Numpy, Matplotlib, Scikit-learn
- 
+<p align="center">
+  <img src="https://github.com/Jimenamatzui98/Portfolio/blob/3967b2f6c5b5519ab224908de0280d0f3948b440/DataScience_Diploma_FinalProject/Images/Contaminacion.jpeg" alt="Contaminacion" width="800">
+</p>
