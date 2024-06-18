@@ -16,11 +16,9 @@
 
 This is my final project for the Data Science Diploma for Bedu, Tecnolochicas. This project aims to integrate the knowledge from the 3 modules of the diploma, using Python and libraries such as Pandas, NumPy, MatplotLib, Seaborn, Scikit-learn, folium, etc.
 
-### Restricciones ⛔ 
+### Restrictions ⛔ 
 
-ETL...Facilisimo ¿verdad? no tan rapido...para calentarnos un poco la cabeza, necesitamos cumplir unos minimos indispensables: 
+- The information has to come from 3 different sources (URLs) 
+- We have to use 2 methods of data extraction (csv, api,  rss, web scrapping, database)
 
-- La información tiene que venir de 3 fuentes distintas(urls)
-- Tenemos que usar al menos 2 métodos distintos de extracción de datos (csv, api,  rss, web scrapping, base de datos)
-
-### Contexto 🧭
+### Context 🧭
