@@ -27,6 +27,9 @@ The State of Nuevo León has an area of ​​64,156 km2 and is located in the n
 
 These socioeconomic conditions, coupled with demographic growth, have influenced the environmental conditions in this municipality, mainly the air quality. According to the Management Program to Improve Air Quality in the State of Nuevo León 2016-2025 (ProAire) [^1], the deterioration of air quality depends on multiple factors, among the most important are economic activity related to the consumption of fossil fuels, the type of fuel, the mobility, quality of roads, and means of transportation. Another factor is the physiographic characteristics since the orography and climatic conditions affect the dispersion or accumulation of contaminants in a given area. 
 
+<p align="center">
+  <img src="https://github.com/Jimenamatzui98/Portfolio/blob/543e3940a1a4b1051a2467d27b6e38e2e3200697/DataScience_Diploma_FinalProject/Images/Monterrey.webp" alt="Monterrey" width="500">
+
 Because of this, the Monterrey Metropolitan Area( MMA) uses an environmental monitoring system called the Sistema Integral de Monitoreo Ambiental (SIMA), which keeps track of air quality based on the criteria pollutants (CO, SO2, NO𝑥, O3, PM10, and PM2.5) and publishes a monthly report of the results. [^2] Additionally, the federal institution  database provides an API that gathers the data from the different state institutions that monitor these criteria in the country. [^3] 
 
 In this project, we will be exploring the data from this API and comparing it with the reports of the SIMA, additionally, finding correlations and fitting the data in Machine Learning Models. 
