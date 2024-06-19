@@ -33,4 +33,4 @@ These socioeconomic conditions, coupled with demographic growth, have influenced
 
 
 #### footnotes: 
-[^1] https://www.redalyc.org/journal/3761/376168604013/html/
+[^1]: https://www.redalyc.org/journal/3761/376168604013/html/
