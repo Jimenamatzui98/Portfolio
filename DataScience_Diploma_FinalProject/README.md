@@ -32,7 +32,16 @@ These socioeconomic conditions, coupled with demographic growth, have influenced
 
 Because of this, the Monterrey Metropolitan Area( MMA) uses an environmental monitoring system called the Sistema Integral de Monitoreo Ambiental (SIMA), which keeps track of air quality based on the criteria pollutants (CO, SO2, NO𝑥, O3, PM10, and PM2.5) and publishes a monthly report of the results. [^2] Additionally, the federal institution  database provides an API that gathers the data from the different state institutions that monitor these criteria in the country. [^3] 
 
-In this project, we will be exploring the data from this API and comparing it with the reports of the SIMA, additionally, finding correlations and fitting the data in Machine Learning Models. 
+### Goal  🎯 
+
+In this project, we will explore the data from this API and compare it with the SIMA reports, finding correlations and fitting the data in Machine Learning Models. 
+
+- ¿preguntas que responderá?
+
+## Extración 🎣 
+
+
+
 
 
 
